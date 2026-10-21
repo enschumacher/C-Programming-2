@@ -1,0 +1,2 @@
+Dizi: 1 2 3 4 5 
+Sonuc: 2 sayisi 2. konumda, 3 adimda bulundu!
